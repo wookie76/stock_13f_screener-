@@ -1,6 +1,3 @@
-Below is GitHub-safe project write-up. Tone: factual, portfolio-ready, no hype.
-
----
 
 # Stock 13F Institutional Screener
 
